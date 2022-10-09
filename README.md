@@ -30,7 +30,9 @@
 ##Establishing Baseline Performance: 
 
 This model establishes a baseline performance of around 56% with a return estimating 50%. The following parameters were set as follows; SMA short window=4D, SMA long window= 100D, training data set to 3 months from start of data. 
+<img width="483" alt="basline performance chart" src="https://user-images.githubusercontent.com/95942698/194762572-84c14331-6e60-4e1e-8206-492a88d43223.png">
 
+<img width="814" alt="Strategy vs Actual Returns Screenshot" src="https://user-images.githubusercontent.com/95942698/194762579-e1f0dc7f-e798-4e65-a650-0ee72021d7cf.png">
 
 
 
@@ -67,4 +69,6 @@ Did this new model perform better or worse than the provided baseline model? Did
 
 
 Both have similar accuracies, however the new model has an increased rate of return, indicating the new model performs better. 
+<img width="777" alt="AdaBoost Screenshot" src="https://user-images.githubusercontent.com/95942698/194763015-f7097e4c-1d3a-4e9a-b269-a0129c56c803.png">
 
+<img width="556" alt="ada" src="https://user-images.githubusercontent.com/95942698/194763113-fa1aa8cb-24b6-4317-a079-b8415a3ce820.png">
